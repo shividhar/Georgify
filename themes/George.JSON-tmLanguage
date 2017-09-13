@@ -1,0 +1,45 @@
+{ "name": "George Highlighting",
+  "scopeName": "source.grg",
+  "fileTypes": ["grg"],
+  "patterns": [
+  	{ "begin": "#q|#u|#a",
+      "end": "\\n",
+        "name": "keyword.operator.source.grg",
+        "comment": "#q, etc"
+  	},
+    { "match": "#check (PROP|ND|PC|Z|TP|ST|PRED|NONE)\\s",
+        "name": "variable.parameter.source.grg",
+        "comment": "#check PROP, etc"
+    },
+    { "begin": "%",
+      "end": "\\n",
+        "name": "comment.source.grg",
+        "comment": "% comment"
+    },
+    {   "match": "disprove|assume|for some|for every|case|equals|inductionstep",
+        "name": "keyword.control.source.grg",
+        "comment": "assume, case, disprove, etc"
+    },
+    {   "match": "AND|NOT|IMP|forall.*?\\.|exists.*?\\.|true|false|premise|univ|sube|empty|\\ssub\\s|\\sunion\\s|\\sin\\s|\\sinter\\s|pow\\(.*?\\)|dom\\(.*?\\)|ran\\(.*?\\)|card\\(.*?\\)|iter\\(.*?\\)|gen_U|gen_I|closed|schema|begin\\s|pred|\\send|assert|while.*?do|if.*?then|else|for.*?until.*?do",
+        "name": "support.function.grg",
+        "comment": "all keywords"
+    },
+    {   "match": "by (and_e|and_i|or_i|or_e|imp_i|imp_e|not_e|cases|comm|assoc|contr|lem|impl|contrapos|simp1|simp2|distr|dm|neg|equiv|idemp|raa|not_not_i|not_not_e|iff_i|trans|iff_e|iff_mp|lem|forall_i|forall_e|exists_i|exists_e|and_nb|not_and_br|or_br|not_or_nb|imp_br|not_imp_nb|not_not_nb|iff_br|not_iff_br|forall_nb|not_forall_nb|not_exists_nb|exists_nb|set|arith|eq_e)",
+        "name": "constant.language.source.grg",
+        "comment": "by (something)"
+    },
+    {   "match": "by magic",
+        "name": "invalid.illegal.source.grg",
+        "comment": "by magic"
+    },
+    {   "match": "on[^(%|\\n)]*",
+        "name": "variable.parameter.grg",
+        "comment": "on (something)"
+    },
+    {   "match": "^\\s*[0-9]+?\\)",
+        "name": "string.source.grg",
+        "comment": "line numbers"
+    }
+  ],
+  "uuid": "e7a54296-b476-48ea-b139-8e9fc5972af3"
+}

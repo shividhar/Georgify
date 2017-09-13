@@ -1,0 +1,17 @@
+[
+  {
+    "id": "tools",
+    "children": [
+      {
+        "id": "Georgify",
+        "caption": "Georgify",
+        "children": [
+          {
+            "caption": "Ask George",
+            "command": "georgify"
+          },
+        ]
+      }
+    ]
+  },
+]

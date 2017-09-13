@@ -1,0 +1,8 @@
+{
+  // spec output panel settings
+  "panel_settings": {
+  },
+  // environment variables for rspec command
+  "env": {
+  },
+}
