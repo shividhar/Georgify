@@ -8,4 +8,4 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 `cmd+shift+g` to test your proof (Mac)
 `windows+shift+g` to test your proof (Mac)
 
-![Screenshot](https://i.gyazo.com/52eb4237cf9a023017df0b290f0ebb10.png)
+![Screenshot](https://github.com/shividhar/Georgify/blob/master/screenshot.png?raw=true)
