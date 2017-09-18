@@ -10,7 +10,7 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 * Open packages dir with `Sublime Text -> Preferences -> Browse Packages...`
 * Download Georgify ZIP by clicking green button on package's root page
   * Save into Sublime's Packages folder
-* Unzip file
+* Unzip file and restart Sublime
 
 ## Pipeline
 * Add to quick access menue
