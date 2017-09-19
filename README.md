@@ -9,6 +9,9 @@ Sublime Text plugin to test proof correctness for the George language used in SE
   * `windows+ctrl+g` (Windows) to test your proof
 * Use quick access menu. Find `Georgify` 
 
+## Installation (Recommended)
+* Use Sublime's Package Manager to install `Georgify`
+
 ## Installation (Manual)
 * Open packages dir with `Sublime Text -> Preferences -> Browse Packages...`
 * Download Georgify ZIP by clicking green button on package's root page
