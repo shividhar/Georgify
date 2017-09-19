@@ -4,7 +4,10 @@ Georgify - SE212
 Sublime Text plugin to test proof correctness for the George language used in SE 212.
 
 ## Usage
-* `ctrl+shift+alt+g` to test your proof
+* Hot Keys
+  * `cmd+ctrl+g` (Mac) to test your proof
+  * `windows+ctrl+g` (Windows) to test your proof
+* Use quick access menu. Find `Georgify` 
 
 ## Installation (Manual)
 * Open packages dir with `Sublime Text -> Preferences -> Browse Packages...`
@@ -13,7 +16,7 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 * Unzip file and restart Sublime
 
 ## Pipeline
-* Add to quick access menu
+- [x] Add to quick access menu
 * Add syntax highlighting (build)
 
 ## Disclaimer
