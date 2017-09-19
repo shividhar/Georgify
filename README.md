@@ -16,8 +16,8 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 * Unzip file and restart Sublime
 
 ## Pipeline
-[x] Add to quick access menu
-* Add syntax highlighting (build)
+- [x] Add to quick access menu
+- [ ] Add syntax highlighting
 
 ## Disclaimer
 * All the code in the current view is sent to a remote web end-point to be verified
