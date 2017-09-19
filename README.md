@@ -13,7 +13,10 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 * Unzip file and restart Sublime
 
 ## Pipeline
-* Add to quick access menue
+* Add to quick access menu
 * Add syntax highlighting (build)
+
+## Disclaimer
+* All the code in the current view is sent to a remote web end-point to be verified
 
 ![Screenshot](https://github.com/shividhar/Georgify/blob/master/screenshot.png?raw=true)
