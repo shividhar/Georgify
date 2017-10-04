@@ -9,8 +9,8 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 
 ## Usage
 * Hot Keys
-  * `cmd+ctrl+g` (Mac) to test your proof
-  * `windows+ctrl+g` (Windows) to test your proof
+  * <kbd>cmd</kbd>+<kbd>ctrl</kbd>+<kbd>G</kbd> (Mac) to test your proof
+  * <kbd>windows</kbd>+<kbd>ctrl</kbd>+<kbd>G</kbd> (Windows) to test your proof
 * Use quick access menu. Find `Georgify` 
 
 ## Installation (Recommended)
