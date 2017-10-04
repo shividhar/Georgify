@@ -3,6 +3,10 @@ Georgify - SE212
 
 Sublime Text plugin to test proof correctness for the George language used in SE 212.
 
+
+![Screenshot](https://i.gyazo.com/eb6c695ca168ffe0255a374efe4a461b.png)
+
+
 ## Usage
 * Hot Keys
   * `cmd+ctrl+g` (Mac) to test your proof
@@ -20,9 +24,10 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 
 ## Pipeline
 - [x] Add to quick access menu
-- [ ] Add syntax highlighting
+- [x] Add syntax highlighting
 
 ## Disclaimer
 * All the code in the current view is sent to a remote web end-point to be verified
 
-![Screenshot](https://github.com/shividhar/Georgify/blob/master/screenshot.png?raw=true)
+## Shout-outs
+* Thanks [@sahiljain](https://github.com/sahiljain) for the [syntax highlighting](https://github.com/sahiljain/GeorgeSublimeSyntaxHighlighting)
