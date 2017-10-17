@@ -15,6 +15,7 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 
 ## Installation (Recommended)
 * Use Sublime's Package Manager to install `Georgify`
+  * https://packagecontrol.io/installation
 
 ## Installation (Manual)
 * Open packages dir with `Sublime Text -> Preferences -> Browse Packages...`
