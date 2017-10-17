@@ -35,4 +35,4 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 
 ## Support for more editors (SE loves all editors equally :heart:)
 * vim users check out [@aidenbenner](https://github.com/aidenbenner)'s [vim-george](https://github.com/aidenbenner/vim-george) 
-* Atom users check out [@sajjadzamani](https://github.com/sajjadzamani)'s [george-atom](https://github.com/sajjadzamani/george-atom)
+* Atom users check out [@ethan-hardy](https://github.com/ethan-hardy)'s [george-atom](https://github.com/ethan-hardy/george-atom)
