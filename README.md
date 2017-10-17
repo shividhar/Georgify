@@ -32,3 +32,6 @@ Sublime Text plugin to test proof correctness for the George language used in SE
 
 ## Shout-outs
 * Thanks [@sahiljain](https://github.com/sahiljain) for the [syntax highlighting](https://github.com/sahiljain/GeorgeSublimeSyntaxHighlighting)
+
+## Support for more editors
+* If you're a vim user check out [@aidenbenner](https://github.com/aidenbenner)'s [vim-george](https://github.com/aidenbenner/vim-george) 
